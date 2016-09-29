@@ -70,5 +70,6 @@ public class AddressBook{
 		System.out.println("HI HI");
 		System.out.println("9/29/2016");
 		System.out.println("I did this on github lol");
+		System.out.println("I merged this lol");
 	}
 }
